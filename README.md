@@ -1,4 +1,4 @@
-# Code_Generator
+# Template_generator
 Cpp class and html code template generator 
 
 
